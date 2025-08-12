@@ -29,3 +29,8 @@ This project explores restaurant data from Zomato to uncover trends in ratings, 
   - Cost comparison for online vs. offline ordering.
   - Relationship between table booking and high ratings.
   - Most popular restaurant types.
+
+- Visualizations:
+    - Bar charts and histograms for ratings and cost.
+    - Pie charts for restaurant type distribution.
+    - Correlation heatmaps for numerical features.
