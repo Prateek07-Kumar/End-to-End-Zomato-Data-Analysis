@@ -34,3 +34,8 @@ This project explores restaurant data from Zomato to uncover trends in ratings, 
     - Bar charts and histograms for ratings and cost.
     - Pie charts for restaurant type distribution.
     - Correlation heatmaps for numerical features.
+ 
+### Tech Stack
+- Python: Pandas, NumPy, Matplotlib, Seaborn
+- Jupyter Notebook for analysis
+- CSV dataset containing restaurant details
