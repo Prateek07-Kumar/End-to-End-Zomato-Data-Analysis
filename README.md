@@ -22,3 +22,4 @@ This project explores restaurant data from Zomato to uncover trends in ratings, 
   - votes – Number of customer votes.
   - approx_cost(for two people) – Estimated cost for two.
   - listed_in(type) – Category/type of restaurant.
+- Missing Values: None.
