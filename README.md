@@ -13,7 +13,7 @@ This project explores restaurant data from Zomato to uncover trends in ratings, 
 - Rows: 148
 - Columns: 7
 - Key Columns:
-    - name – Restaurant name.
+    - **name** – Restaurant name.
     - online_order – Whether the restaurant accepts online orders.
     - book_table – Whether table booking is available.
     - rate – Average customer rating.
