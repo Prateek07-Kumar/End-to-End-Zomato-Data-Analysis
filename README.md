@@ -10,7 +10,7 @@ This project explores restaurant data from Zomato to uncover trends in ratings, 
 - Identify trends in popular restaurant types.
 
 ### Dataset Overview
-- Rows: 148
+- **Rows: 148**
 - Columns: 7
 - Key Columns:
     - **name** – Restaurant name.
