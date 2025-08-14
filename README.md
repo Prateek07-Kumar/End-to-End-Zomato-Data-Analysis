@@ -19,7 +19,7 @@ This project explores restaurant data from Zomato to uncover trends in ratings, 
     - **rate – Average** customer rating.
     - **votes** – Number of customer votes.
     - **approx_cost(for two people)** – Estimated cost for two.
-    - listed_in(type) – Category/type of restaurant.
+    - **listed_in(type)** – Category/type of restaurant.
 - Missing Values: None.
 
 ### Key Analysis Performed
