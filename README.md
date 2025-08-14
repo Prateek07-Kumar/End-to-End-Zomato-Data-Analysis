@@ -15,8 +15,8 @@ This project explores restaurant data from Zomato to uncover trends in ratings, 
 - Key Columns:
     - **name** – Restaurant name.
     - **online_order** – Whether the restaurant accepts online orders.
-    - book_table – Whether table booking is available.
-    - rate – Average customer rating.
+    - **book_table** – Whether table booking is available.
+    - **rate – Average** customer rating.
     - votes – Number of customer votes.
     - approx_cost(for two people) – Estimated cost for two.
     - listed_in(type) – Category/type of restaurant.
