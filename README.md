@@ -11,7 +11,7 @@ This project explores restaurant data from Zomato to uncover trends in ratings, 
 
 ### Dataset Overview
 - **Rows: 148**
-- Columns: 7
+- **Columns: 7**
 - Key Columns:
     - **name** – Restaurant name.
     - **online_order** – Whether the restaurant accepts online orders.
