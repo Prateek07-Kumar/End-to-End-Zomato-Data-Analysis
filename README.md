@@ -38,4 +38,4 @@ This project explores restaurant data from Zomato to uncover trends in ratings, 
 ### Tech Stack
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn
 - **Jupyter Notebook** for analysis
-- CSV dataset containing restaurant details
+- **CSV** dataset containing restaurant details
