@@ -36,6 +36,6 @@ This project explores restaurant data from Zomato to uncover trends in ratings, 
     - Correlation heatmaps for numerical features.
  
 ### Tech Stack
-- Python: Pandas, NumPy, Matplotlib, Seaborn
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn
 - Jupyter Notebook for analysis
 - CSV dataset containing restaurant details
