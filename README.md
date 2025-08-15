@@ -23,7 +23,7 @@ This project explores restaurant data from Zomato to uncover trends in ratings, 
 - Missing Values: None.
 
 ### Key Analysis Performed
-- Exploratory Data Analysis (EDA):
+- **Exploratory Data Analysis (EDA):**
 
   - Distribution of ratings across restaurants.
   - Cost comparison for online vs. offline ordering.
